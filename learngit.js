@@ -6,3 +6,4 @@ var obj ={
 	age:'26',
 	isMale:true
 }
+var obj1 = "1231549"
